@@ -75,3 +75,9 @@
   height: 230px;
   border-radius: 20px;
 }
+
+@media (max-width: 480px) { 
+	.App{
+		display:block;
+	}
+}
